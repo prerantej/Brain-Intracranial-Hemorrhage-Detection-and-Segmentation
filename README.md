@@ -8,7 +8,7 @@ Using a Convolutional Neural Network (CNN) for detection and **ResUNet** for seg
 
 ## Dataset
 
-The project expects a dataset of **brain CT scans** that include images labeled for hemorrhage regions. The dataset should be placed in the `data/` directory. The model takes in 2D slices of these CT scans for training and testing.
+Used dataset from https://www.kaggle.com/datasets/vbookshelf/computed-tomography-ct-images that include images of **brain CT scans**.
 
 ## Novelty
 
