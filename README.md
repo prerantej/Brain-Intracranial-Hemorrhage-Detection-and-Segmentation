@@ -53,6 +53,9 @@ jupyter notebook brain-stroke-detection-using-ct-images.ipynb
 <img width="938" alt="image" src="https://github.com/user-attachments/assets/b602fb54-fb18-4808-ac36-a444978823a0">
 
 ## Jacard Coefficient and Jacard Loss
+- Jaccard Coefficient: Measures the similarity between two sets by dividing the size of their intersection by the size of their union. It is used in tasks like clustering, where higher values indicate greater similarity.
+- Jaccard Loss: A loss function derived from the Jaccard Coefficient, commonly used in image segmentation tasks. It penalizes the model based on how much the predicted output deviates from the actual target.
+<img width="938" alt="image" src="https://github.com/user-attachments/assets/8765c065-94f9-4400-9216-d80c070ae7c4">
 
 ## Future Scope
 
