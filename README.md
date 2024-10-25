@@ -50,6 +50,7 @@ jupyter notebook brain-stroke-detection-using-ct-images.ipynb
 - Metrics such as **Dice Coefficient** are used to assess segmentation performance.
 <img width="927" alt="image" src="https://github.com/user-attachments/assets/bc238ed2-911e-4198-9750-8731f1543dae">
 <img width="938" alt="image" src="https://github.com/user-attachments/assets/da973404-fd85-44e3-8aa3-8bc37c32d229">
+<img width="938" alt="image" src="https://github.com/user-attachments/assets/b602fb54-fb18-4808-ac36-a444978823a0">
 
 ## Future Scope
 
