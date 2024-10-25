@@ -52,6 +52,8 @@ jupyter notebook brain-stroke-detection-using-ct-images.ipynb
 <img width="938" alt="image" src="https://github.com/user-attachments/assets/da973404-fd85-44e3-8aa3-8bc37c32d229">
 <img width="938" alt="image" src="https://github.com/user-attachments/assets/b602fb54-fb18-4808-ac36-a444978823a0">
 
+## Jacard Coefficient and Jacard Loss
+
 ## Future Scope
 
 - **Multi-class Hemorrhage Segmentation**: Extend the project to handle different types of intracranial hemorrhages (subdural, epidural, etc.).
