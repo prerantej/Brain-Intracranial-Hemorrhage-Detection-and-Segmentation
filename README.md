@@ -49,7 +49,7 @@ jupyter notebook brain-stroke-detection-using-ct-images.ipynb
 - The model outputs segmentation maps for CT images, where the hemorrhage regions are highlighted.
 - Metrics such as **Dice Coefficient** are used to assess segmentation performance.
 <img width="927" alt="image" src="https://github.com/user-attachments/assets/bc238ed2-911e-4198-9750-8731f1543dae">
-<img width="938" alt="image" src="https://github.com/user-attachments/assets/da973404-fd85-44e3-8aa3-8bc37c32d229">
+<img width="938" alt="image" src="https://github.com/user-attachments/assets/195ba107-7d41-4c44-8001-af67cf5cc860">
 <img width="938" alt="image" src="https://github.com/user-attachments/assets/532d8c2d-5db7-45dc-9152-927c5029ceb1">
 
 ## Jacard Coefficient and Jacard Loss
