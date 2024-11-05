@@ -20,7 +20,7 @@ Current machine learning research in medical diagnostics focuses on individual m
 
 ## Proposed Methodology 
 Our approach incorporates patient demographics and imaging data. Normalization, encoding categorical variables, and handling missing values are all part of the data preprocessing workflow. Stratified k-fold cross-validation was used to train and assess six machine learning models, with regularization strategies used to reduce overfitting. Accuracy and log loss measurements were used to evaluate performance.
-<img width="927" alt="image" src="https://github.com/user-attachments/assets/966ef12f-43d9-4195-8e9a-a0c11b7a5cfa">
+<img width="927" alt="image" src="https://github.com/user-attachments/assets/8f9df4bd-da88-4b7c-a1a2-4e6d7509a372">
 
 ## Experimental Setup and Results
 A combined dataset of demographic and imaging data was used to train all models. Each model's hyperparameters were adjusted, and training was carried out on a workstation with enough processing capability. The following are each model's primary metrics:
