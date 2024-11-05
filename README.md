@@ -25,7 +25,7 @@ Our approach incorporates patient demographics and imaging data. Normalization, 
 ## Experimental Setup and Results
 A combined dataset of demographic and imaging data was used to train all models. Each model's hyperparameters were adjusted, and training was carried out on a workstation with enough processing capability. The following are each model's primary metrics:
 <img width="938" alt="image" src="https://github.com/user-attachments/assets/195ba107-7d41-4c44-8001-af67cf5cc860">
-<img width="938" alt="image" src="https://github.com/user-attachments/assets/532d8c2d-5db7-45dc-9152-927c5029ceb1">
+<img width="938" alt="image" src="https://github.com/user-attachments/assets/d60b0441-6ca1-44f4-adc7-5998e4f52bc2">
 
 ## Comparison with State-of-the-Art
 Our use of demographic information and imaging data resulted in a significant increase in prediction accuracy when compared to earlier research, especially with the XGBoost and Neural Network models. Prior research has shown that ensemble techniques perform well; nevertheless, our study is unique in that it combines thorough data preprocessing and robust evaluation to achieve state-of-the-art hemorrhage detection findings.
