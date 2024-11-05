@@ -47,7 +47,7 @@ Used dataset from https://www.kaggle.com/datasets/vbookshelf/computed-tomography
 
 ## Novelty
 
-This project applies **ResUNet** for hemorrhage segmentation, which is an advanced version of the U-Net architecture, incorporating residual connections to improve training efficiency and segmentation accuracy. By utilizing **Dice Loss** instead of standard loss functions, the project achieves better performance on small and imbalanced hemorrhage regions.
+This study uniquely combines medical imaging data with demographic information to improve hemorrhage detection accuracy, a rarely explored integration in existing literature. By evaluating six diverse machine learning models under the same conditions, we systematically identify optimal models for clinical use. The robust validation techniques applied enhance the generalization of results, positioning this approach as a reliable tool for real-world diagnostics.
 
 ## Requirements
 
